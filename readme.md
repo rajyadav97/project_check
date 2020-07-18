@@ -4,4 +4,4 @@
 
 print("Hello Raj, Welcome to github")
 
-print("Changes made locally")
+print("Changes made")
